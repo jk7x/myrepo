@@ -1,0 +1,4 @@
+1. yr copy kr lena jo github mei "git add krne cmd hogi"
+2. type -> git config --global user.name "jk7x"
+3. type ->git config --global user.email ".."
+4. type->  git push -u origin master
