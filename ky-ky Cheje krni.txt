@@ -4,3 +4,7 @@
 4. type->  git push -u origin master
 
 changes kr rahe hai
+
+
+ye changes to mei jay2 branch mei kr raha hu too master branch 
+me problme nhi honi chahiye.
