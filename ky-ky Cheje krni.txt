@@ -2,3 +2,5 @@
 2. type -> git config --global user.name "jk7x"
 3. type ->git config --global user.email ".."
 4. type->  git push -u origin master
+
+changes kr rahe hai
